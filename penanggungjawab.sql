@@ -1,0 +1,5 @@
+INSERT INTO penanggungjawab (jabatan, nama, nip) VALUES
+	('KUASA PENGGUNA ANGGARAN', 'Urip Sugeng Santoso, S.ST., M.A.', '19710212 199403 1 005'),
+	('KEPALA SUB BAGIAN UMUM', 'Wishnu Eka Saputra S.P., M.M.', '19720518 199903 1 001'),
+	('PEJABAT PEMBUAT KOMITMEN', 'Hani Setiani, S.ST., M.Si.', '19820830 200312 2 003'),
+	('BENDAHARA PENGELUARAN', 'Muhidin, SH.', '19770709 200604 1 003');
