@@ -1,0 +1,10 @@
+{
+    "calibri": {
+        "normal": "C:\\laragon\\www\\apemrasasutra_3\\vendor\\dompdf\\dompdf\/lib\/fonts\/calibri_normal_11d91114d70bcdf4984a40445218952f",
+        "bold": "calibri_bold_c05dfc03374552035d90309c0a0255b4"
+    },
+    "cambria": {
+        "normal": "C:\\laragon\\www\\apemrasasutra_3\\vendor\\dompdf\\dompdf\/lib\/fonts\/cambria_normal_7fd970a7b904190889fc28f448865332",
+        "bold": "cambria_bold_fcd4f1e35f43dee68bbc16ebb57642e5"
+    }
+}
