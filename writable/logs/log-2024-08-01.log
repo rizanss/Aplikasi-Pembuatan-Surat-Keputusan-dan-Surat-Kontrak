@@ -1,0 +1,772 @@
+INFO - 2024-08-01 02:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 02:59:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 02:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 02:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 02:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 02:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 02:59:48 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 02:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:00:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:11:06 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:11:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:11:06 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:11:07 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:11:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:11:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:24:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:24:26 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:24:33 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:24:34 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:25:52 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:25:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:25:56 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:26:02 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(130): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:26:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:38:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:50:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:12 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:50:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:15 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:17 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:18 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:20 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:22 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:50:24 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 03:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:56:50 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:56:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:56:52 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:56:54 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:56:55 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:56:55 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:56:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:56:56 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:57:07 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 03:57:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 03:57:21 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:01:09 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:01:12 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:01:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:01:13 --> BadMethodCallException: Call to undefined method App\Models\SuratKeputusanModel::getPetugas
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\User.php(203): CodeIgniter\Model->__call('getPetugas', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:08:02 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:08:30 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(133): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:08:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:08:39 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:09:21 --> CodeIgniter\Filters\Exceptions\FilterException: "role" filter must have a matching alias defined.
+[Method: POST, Route: proses-surat-keputusan]
+in SYSTEMPATH\Filters\Filters.php on line 495.
+ 1 SYSTEMPATH\Filters\Filters.php(495): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('role')
+ 2 SYSTEMPATH\Filters\Filters.php(547): CodeIgniter\Filters\Filters->enableFilter('role', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\Filters\Filters->enableFilters([...], 'before')
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:10:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:10:22 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:10:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-08-01 04:10:28 --> mysqli_sql_exception: Table 'apemrasasutra3_db.surat_keputusan' doesn't exist in C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\apemrasasutra_3\app\Controllers\User.php(177): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+#9 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#10 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\apemrasasutra_3\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+CRITICAL - 2024-08-01 04:10:28 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'apemrasasutra3_db.surat_keputusan' doesn't exist
+[Method: POST, Route: proses-surat-keputusan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (:no_sk:, :tahun_sk:, :nama_kegiatan_sk:, :tanggal_sk:, :ttd_sk:, :nip_sk:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\User.php(177): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+CRITICAL - 2024-08-01 04:10:28 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'apemrasasutra3_db.surat_keputusan' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (:no_sk:, :tahun_sk:, :nama_kegiatan_sk:, :tanggal_sk:, :ttd_sk:, :nip_sk:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\User.php(177): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+CRITICAL - 2024-08-01 04:10:28 --> [Caused by] mysqli_sql_exception: Table 'apemrasasutra3_db.surat_keputusan' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (:no_sk:, :tahun_sk:, :nama_kegiatan_sk:, :tanggal_sk:, :ttd_sk:, :nip_sk:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\User.php(177): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:11:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:12:02 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-08-01 04:12:05 --> mysqli_sql_exception: Column 'tanggal_sk' cannot be null in C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\laragon\www\apemrasasutra_3\app\Controllers\User.php(177): CodeIgniter\Model->insert(Array)
+#8 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+#9 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+#10 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\laragon\www\apemrasasutra_3\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 C:\laragon\www\apemrasasutra_3\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\laragon\\www\\...')
+#15 {main}
+CRITICAL - 2024-08-01 04:12:05 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'tanggal_sk' cannot be null
+[Method: POST, Route: proses-surat-keputusan]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (:no_sk:, :tahun_sk:, :nama_kegiatan_sk:, :tanggal_sk:, :ttd_sk:, :nip_sk:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\User.php(177): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+CRITICAL - 2024-08-01 04:12:05 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'tanggal_sk' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (:no_sk:, :tahun_sk:, :nama_kegiatan_sk:, :tanggal_sk:, :ttd_sk:, :nip_sk:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\User.php(177): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+14 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+CRITICAL - 2024-08-01 04:12:05 --> [Caused by] mysqli_sql_exception: Column 'tanggal_sk' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (\'3204\', \'2024\', \'Pendataan Lapangan Updating Kerangka Sample Area\', NULL, \'tidak ditemukan\', \'tidak ditemukan\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `surat_keputusan` (`no_sk`, `tahun_sk`, `nama_kegiatan_sk`, `tanggal_sk`, `ttd_sk`, `nip_sk`) VALUES (:no_sk:, :tahun_sk:, :nama_kegiatan_sk:, :tanggal_sk:, :ttd_sk:, :nip_sk:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\User.php(177): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->prosesSuratKeputusan()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:13:57 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:13:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:18:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:18:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:18:55 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:21:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:21:27 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:22:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:31:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:31:15 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:37:59 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:38:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:38:59 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nama', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:39:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:39:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:40:06 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKontrakModel.php on line 20
+[Method: POST, Route: getPetugas]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKontrakModel.php(20): CodeIgniter\Database\BaseBuilder->like('sobat_id', null)
+ 2 APPPATH\Controllers\User.php(133): App\Models\SuratKontrakModel->getPetugas(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPetugas()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:41:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:49:59 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nip', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:50:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:50:44 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nip', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:52:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-08-01 04:52:30 --> TypeError: CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, null given, called in C:\laragon\www\apemrasasutra_3\app\Models\SuratKeputusanModel.php on line 18
+[Method: POST, Route: getPenanggungjawab]
+in SYSTEMPATH\Database\BaseBuilder.php on line 1003.
+ 1 APPPATH\Models\SuratKeputusanModel.php(18): CodeIgniter\Database\BaseBuilder->like('nip', null)
+ 2 APPPATH\Controllers\User.php(203): App\Models\SuratKeputusanModel->getPenanggungjawab(null)
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\User->getPenanggungjawab()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\User))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\apemrasasutra_3\\public\\index.php')
+INFO - 2024-08-01 04:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-08-01 04:52:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
